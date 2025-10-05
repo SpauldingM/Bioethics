@@ -50,9 +50,9 @@ The ones that would benefit from a BCI based setting would be the ones who would
 In Chapter 12, The principles of autonomy, beneficence and justice require that technology doesn't compromise one's personal freedom or fairness on the path of enhancing the future of society's well being. These principles mean that BCI can be used not only consensually but beneficial. In chapter 13, new technology tends to create an effect upon society where some people will have access to it before others will, leading to innovation unintentionally reinforcing inequality. Calling for a way to not only protect the participants from harm but also to ensure that progress can be beneficial to everyone, even if they don't have the privilege. 
 
 ## Evidence:
-(Weekly Reflection) [Weekly-Reflection-7.pdf]
+[Weekly Reflection](Weekly-Reflection-7.pdf)
 
-(Addendum) [Addendum.pdf]
+[Addendum](Addendum.pdf)
 
 ## Reflection:
 Looking back, The one trade off I would revisit would be between innovation and privacy. BCI and other neurological devices can most certainly provide valuable information when it comes to healthcare or benefiting those in the classroom, but it may also reveal personal information that may not be consented. Limits should be placed on not only data retention but also how a third party would use that information. 
